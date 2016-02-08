@@ -382,7 +382,7 @@ int main(int argc, char *argv[])
     delete Chains;
 
 
-	cout << "Ende bei Schritt" << Schritt << endl;
+	cout << "Ende bei Schritt " << Schritt << endl;
 
 	return 0;
 }
