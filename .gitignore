@@ -1,0 +1,25 @@
+#Ignore all .txt's
+*.txt
+
+#ignore all pdfs
+*.pdf
+
+#ignore all directories
+Eigen/*
+L3/*
+L26/*
+old/*
+plotSkript/*
+rho=05/*
+rho=1/*
+rho=3*/
+
+#ignore temporary files
+*.~
+
+#other
+main
+*.out
+*.index
+*.cfg
+*.log

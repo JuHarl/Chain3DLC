@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+scp -i $HOME/.ssh/id_rsa.cl1 *.sh $USER@gw.cl1.fkt:~/Skripte/
+
+rm -f *.sh
