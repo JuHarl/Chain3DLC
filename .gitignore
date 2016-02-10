@@ -12,7 +12,8 @@ old/*
 plotSkript/*
 rho=05/*
 rho=1/*
-rho=3*/
+rho=3/*
+DB_Neu/
 
 #ignore temporary files
 *.~
